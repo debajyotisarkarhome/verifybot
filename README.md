@@ -1,0 +1,1 @@
+# Discord Bot for authorising Mentees for the 30 days of GCP program hosted by GDSC SIT 2021
